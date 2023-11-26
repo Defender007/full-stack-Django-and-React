@@ -1,0 +1,19 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.background": "#020400",
+        "activityBar.activeBackground": "#bacdb1",
+        "activityBar.background": "#1d3462",
+        "terminalCursor.background": "#97ada1",
+        "terminalCursor.foreground": "#27c581",
+        "sideBar.background": "#878c9b20",
+        "statusBar.foreground": "#030303"
+    },
+    "editor.fontSize": 12.5,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "Klass"
+    ]
+}
